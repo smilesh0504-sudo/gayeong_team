@@ -1,2 +1,2 @@
-# gayoeng_team
+# gayeong_team
 team_project
